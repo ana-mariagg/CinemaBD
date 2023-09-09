@@ -8,7 +8,7 @@ sudo apt install postgresql postgresql-contrib
 # Start PostgreSQL
 sudo service postgresql start
 
-# Create football_teams database
+# Create cinema database
 sudo -u postgres createdb cinema
 
 # Compile the project
